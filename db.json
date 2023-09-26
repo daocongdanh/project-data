@@ -7,7 +7,7 @@
       "password": "123456",
       "token": "pwYhBgkNOANIjtKI7WHz",
       "id": 1,
-      "quantityPeople": 8,
+      "quantityPeople": "8",
       "description": "1. Tầm nhìn\nTrở thành một trong những ngân hàng tốt nhất Việt Nam, hướng tới vị trí trong top 3, với định vị là một ngân hàng cộng đồng, có đội ngũ nhân viên thân thiện và điểm giao dịch thuận lợi.\n2. Phương châm chiến lược\nTăng trưởng mạnh, tạo sự khác biệt và bền vững bằng văn hóa kỷ luật, đội ngũ nhân sự tinh thông về nghiệp vụ, cam kết cao và được tổ chức khoa học.",
       "detail": "Mức lương cạnh tranh, hấp dẫn (Thưởng xếp loại thực hiện công việc 6 tháng/lần, thưởng sinh nhật ngân hàng, thưởng các ngày lễ tết trong năm…).\nChế độ phúc lợi cạnh tranh: Du lịch hàng năm, Khám sức khỏe định kì hàng năm; Gói bảo hiểm sức khỏe; Các hoạt động tri ân, chăm lo đời sống tinh thần CBNV và Thân nhân...\nMôi trường làm việc chuyên nghiệp, thân thiện, cởi mở.\nĐược làm việc với các hệ thống hiện đại, tiên tiến nhất thị trường, áp dụng các công nghệ hàng đầu về an ninh bảo mật để đảm bảo an toàn cho người sử dụng.\nCơ hội học hỏi nghiệp vụ ngân hàng.",
       "address": "123 đường Tran Phu",
@@ -20,7 +20,35 @@
       "email": "contact@abcd.com",
       "phone": "0973455645",
       "token": "JqHrujb2R9HeyJC0Txj9",
+      "quantityPeople": 10,
+      "description": "1. Tầm nhìn\nTrở thành một trong những ngân hàng tốt nhất Việt Nam, hướng tới vị trí trong top 3, với định vị là một ngân hàng cộng đồng, có đội ngũ nhân viên thân thiện và điểm giao dịch thuận lợi.\n2. Phương châm chiến lược\nTăng trưởng mạnh, tạo sự khác biệt và bền vững bằng văn hóa kỷ luật, đội ngũ nhân sự tinh thông về nghiệp vụ, cam kết cao và được tổ chức khoa học.",
+      "detail": "Mức lương cạnh tranh, hấp dẫn (Thưởng xếp loại thực hiện công việc 6 tháng/lần, thưởng sinh nhật ngân hàng, thưởng các ngày lễ tết trong năm…).\nChế độ phúc lợi cạnh tranh: Du lịch hàng năm, Khám sức khỏe định kì hàng năm; Gói bảo hiểm sức khỏe; Các hoạt động tri ân, chăm lo đời sống tinh thần CBNV và Thân nhân...\nMôi trường làm việc chuyên nghiệp, thân thiện, cởi mở.\nĐược làm việc với các hệ thống hiện đại, tiên tiến nhất thị trường, áp dụng các công nghệ hàng đầu về an ninh bảo mật để đảm bảo an toàn cho người sử dụng.\nCơ hội học hỏi nghiệp vụ ngân hàng.",
+      "address": "333 Trần Phú, Hồ Chí Minh",
+      "workingTime": "T2 - T7",
+      "website": "https://xyz.com",
       "id": 2
+    },
+    {
+      "companyName": "ABCDdanh",
+      "email": "danhh@zxcu.com",
+      "phone": "0392406660",
+      "password": "123",
+      "token": "enRuia1ojb0gFRTxKzWN",
+      "id": 3,
+      "description": "1. Tầm nhìn Trở thành một trong những ngân hàng tốt nhất Việt Nam, hướng tới vị trí trong top 3, với định vị là một ngân hàng cộng đồng, có đội ngũ nhân viên thân thiện và điểm giao dịch thuận lợi. 2. Phương châm chiến lược Tăng trưởng mạnh, tạo sự khác biệt và bền vững bằng văn hóa kỷ luật, đội ngũ nhân sự tinh thông về nghiệp vụ, cam kết cao và được tổ chức khoa học.",
+      "detail": "Mức lương cạnh tranh, hấp dẫn (Thưởng xếp loại thực hiện công việc 6 tháng/lần, thưởng sinh nhật ngân hàng, thưởng các ngày lễ tết trong năm…). Chế độ phúc lợi cạnh tranh: Du lịch hàng năm, Khám sức khỏe định kì hàng năm; Gói bảo hiểm sức khỏe; Các hoạt động tri ân, chăm lo đời sống tinh thần CBNV và Thân nhân... Môi trường làm việc chuyên nghiệp, thân thiện, cởi mở. Được làm việc với các hệ thống hiện đại, tiên tiến nhất thị trường, áp dụng các công nghệ hàng đầu về an ninh bảo mật để đảm bảo an toàn cho người sử dụng. Cơ hội học hỏi nghiệp vụ ngân hàng.",
+      "address": "123, duy, phuc, danh",
+      "quantityPeople": "10",
+      "workingTime": "T2-T7",
+      "website": "http://localhost:3002/jobs"
+    },
+    {
+      "companyName": "ABCDdanh",
+      "email": "danhh22222@zxcu.com",
+      "phone": "123123123",
+      "password": "123",
+      "token": "ZzrtQHajDZEjaG4qGeOy",
+      "id": 4
     }
   ],
   "city": [
@@ -137,7 +165,8 @@
       "city": [
         "Hà Nội"
       ],
-      "updateAt": "30-04-2023 14:12:21"
+      "updateAt": "23-09-2023 03:14:47",
+      "status": true
     },
     {
       "idCompany": 1,
@@ -165,10 +194,10 @@
       ],
       "salary": "2500",
       "description": "Top 3 Reasons To Join Us\nInspired Leadership Team and Talented Colleagues\nEarn a competitive salary with attractive bonuse\nPremium Healthcare for you and your family\nJob Description\nThe successful candidates will undertake 2-month intensive training before joining projects. \n\nJob Responsibilities: Conduct technical task under Supervisor:\n\nActively involved in the product design and development process, from requirement & design, solution architecture, through integration, release & maintenance\nWriting Technical Design based on Feature Design (required)\nPerform Unit Test and follow team coding structure and guideline\nPerform coding review and code refactoring\nFixing issues / bugs reported\nDevelop & deliver “eCAT version 2” product features. \nSpecial Notes:\n\nPlease state your expected income in your application\nYour Skills and Experience\nEducation:\n\nUniversity/College degree in Information Technology, Computer Sciences, Management Information System, Industrial Management or equivalent.\nExperience:\n\nSenior: Have 1-2 years of experience in software development (JAVA)\nSoft skills:\n\nAble to obtain deep knowledge of the project’s technologies\nAble to work independently with minimal guidance\nAble to self-learn and quickly adapt to new technologies\nFamiliar with the Agile development methodologies.\nHard skills:\n\nExperience with web-based technologies: Spring (Spring Core, Spring MVC, Spring Security, Spring Data, Spring Boot) and ORM (JPA, Hibernate)\nExperience with O-O designs and design patterns\nExperience with Tomcat, and RESTful based web services\nExperience with Typescript/ReactJS\nExperienced working on WebSphere, OS, RestApi, OSLC and WebServices\nIBM Maximo Java Dev, Oracle DB, SQL DB, DB2 are plus\nExpertise to handle HTML/ CSS/ SCSS/ JavaScript/ Bootstrap\nExperience with Gradle Project\nAggressive problem diagnosis and creative problem-solving skills.\nGood experience with unit testing (JUnit, mock) is a plus.\nCloud-deployment & multi-tenant cloud design experience is a plus.\nTools & Report:\n\nDevelop Tool & Database: IntelliJ, Postgres SQL (latest version), Docker\nJetbrains Space platform is a plus.\nSVN: git\nTimesheet Weekly Report (System)\nLanguage:\n\nEnglish: Basic level, can read and understand material. Ability to communicate in English is a PLUS\nOthers is a PLUS\nWhy You'll Love Working Here\nSalary: Up to 21 mil VND; Attractive Year End Bonus based on performance\nAttractive Training Programs (course & on-job assignment); participation in project in immediately\nTo be certified for Software Deployment & Implementation by IBM, Oracle, OSISoft, etc)\nParticipating in large-scale projects, the opportunity to work directly with major customers of Avenue in the business management system: Dung Quat Refinery, PVGAS Corporation, Airport Corporation Vietnam, Saigon New Port and cross industries companies.\nOpportunities to work with world class domain expert/consultant: IBM, Oracle, OSISoft, Honeywell, R2E, etc. and their industry solutions.\nGood mentorship and career advancement program.\nWorking in a professional, dynamic environment and Fun with many sports, art and exciting team activities\nPremium Health Care Package for you and your family \nVacation: company package > 8,000,000 VND annually, plus 50% coverage spouse and kids.\nLegal holidays per company policy (9 days holidays with pay).\n12 days paid annual leave after one year’s service (individual).\nParticipating fully in the provisions of the government's labor laws such as social insurance, trade union, ...",
-      "status": true,
+      "status": false,
       "createAt": "29-04-2023 21:33:23",
       "id": 4,
-      "updateAt": "30-04-2023 14:12:09",
+      "updateAt": "23-09-2023 03:14:59",
       "city": [
         "Đà Nẵng"
       ]
@@ -184,6 +213,9 @@
       "status": true,
       "createAt": "29-04-2023 21:33:23",
       "id": 5,
+      "city": [
+        "Hà Nội"
+      ],
       "updateAt": "30-04-2023 10:23:02"
     },
     {
@@ -196,7 +228,7 @@
       "salary": "2500",
       "description": "Top 3 Reasons To Join Us\nOwnership and growth\nUp to 4 mth performance bonus\nAttractive Stock Options\nJob Description\nWe are seeking team members who strive to solve hard problems, take pride in delivering world-class products, and are strong team players.\n\nYou are someone who wants to see the impact of your work making a difference every day. You find passion in the craft and are constantly seeking improvement and better ways to solve tough problems.\n\nResponsibilities:\nContribute to the ideation, technical design, implementation, and testing of product features that empower our business and deliver impact to our customers.\nProduce high-quality software following good architecture and design principles that are scalable.\nDesign & deliver thoughtfully crafted APIs to drive the interactions between our client applications and backend services.\nCollaborate with the team to define the future of the ShopBack experience.\nStrong mentoring skills with the ability to provide technical guidance and review code.\n \nYour Skills and Experience\nRequirements:\n4+ years of experience developing consumer-facing web applications or complex distributed systems.\nProven experience designing complex distributed systems, management products, or business applications.\nUnderstanding of good software design principles and applied principles to professional work.\nHands-on experience working with Node.js (Preferred).\nHave experience in TypeScript (Preferred).\nHave knowledge in Test Driven Development (TDD), CI/CD.\nExperience building and deploying applications and services into cloud environments (AWS highly desired).\nStrong experience in the design and implementation of robust and highly scalable web services.\nAbility to work effectively in a fast-paced, complex technical environment with high adaptability and flexibility.\nGood English communication\nWhy You'll Love Working Here\nHave these benefits and a lot more at ShopBack VN:\n\nAttractive Stock Options for all employees\nUp to 4-month salary of Performance Bonus\n13-month Salary\n15 days of annual leave + 3 days of Medical leave + 1 day of birthday leave\n 5 days of Additional Time Off (after annual leave entitlement is fully utilized)\nA laptop of your choice for work purposes (Macbook or Lenovo) + other devices\nIDP Budget\nPVI Healthcare Insurance\nOther benefits: Fun monthly and quarterly activities; Fully stocked pantry of fun and healthy food/snacks; Ping-Pong table, PS4 in the office!\nWhich of these core values connects with you the most?\n\nOur Mission\n\nTo make shopping rewarding, delightful, and accessible.\nOur #SHOPBACK Values\n\nOur Values are not “Sound/Feel Good” values that are for show. We understand how our values build our culture and believe these aligned values will help us work better together to achieve our mission. We will hire, part ways, recognize or reward ShopBackers based on our values. \nUpholding these values is as important as our performance at work.\nHere are our 8 Values #SHOPBACK:\n\nSucceed as One We are one team. We win or lose as one ShopBack. We debate passionately with data and insight. We may disagree, but we always commit. \nHonour Our Customers Our customers’ happiness starts and ends with us. We obsess over earning their trust and never take it for granted.\nOwn the Problem Our solutions are actionable, constructive, and solve for teams beyond our own. Quick iteration beats slow perfection. Think for the long-term and build for scale.\nPave New Roads We proactively improve current practices and do not tolerate mediocrity. The products of our innovation must be useful. Our solutions simplify.\nBe Better Every Day We have humility and self-awareness. We seek feedback proactively because it helps us grow. We own up to our mistakes.\nAlways Be Curious We learn and improve faster than others. We understand deeply to seek the truth and are willing to be proven wrong.\nCan’t is Not an OptionWe possess grit and remain calm under pressure. We go all out to build a better ShopBack.\nKeep It Real We are authentic and keep our word. We give feedback with good intentions. We treat everyone with respect.",
       "status": true,
-      "idCompany": "1",
+      "idCompany": 2,
       "createAt": "30-04-2023 10:31:41",
       "id": 6,
       "city": [
@@ -217,7 +249,7 @@
       ],
       "description": "Top 3 Reasons To Join Us\nMức lương & phúc lợi hấp dẫn bạn sẽ yêu thích\nThưởng cổ phần ESOP cho sự nỗ lực và thành công\nMôi trường làm việc thân thiện và sáng tạo\nJob Description\nXây dựng, quản lý và tối ưu hóa cấu trúc cơ sở dữ liệu MongoDB cho ứng dụng.\nThiết kế, phát triển và bảo trì API để kết nối giữa ứng dụng và cơ sở dữ liệu.\nNghiên cứu và đưa ra các giải pháp phù hợp cho backend, đảm bảo hiệu năng cao, tính mở rộng và bảo mật.\nPhối hợp chặt chẽ với các thành viên trong đội ngũ để giải quyết công việc, hỗ trợ và tối ưu hóa các tính năng của ứng dụng.\nTriển khai các giải pháp bảo mật để đảm bảo dữ liệu của người dùng và ứng dụng được bảo vệ tốt nhất.\nTối ưu hoá code và cấu trúc dữ liệu để đạt được hiệu suất tối đa và chịu tải tốt nhất.\nXây dựng và phát triển hệ thống quản lý nội dung (CMS) cho ứng dụng, đảm bảo tính linh hoạt, dễ sử dụng và tích hợp tốt với các thành phần khác của ứng dụng.\n\n \n\nYour Skills and Experience\nTrên 5 năm kinh nghiệm phát triển ứng dụng\nThành thạo Nodejs (NestJS)\nThành thạo Web API, Web Services REST\nCó kinh nghiệm Docker, Kubernetes\nCó kinh nghiệm thiết kế những hệ thống có quy mô lớn \nNhiệt huyết, trách nhiệm, có tinh thần startup.\nCó khả năng làm việc theo nhóm\nWhy You'll Love Working Here\nChúng tôi mong muốn MINU là nơi bạn xây dựng sự nghiệp và tương lai. Cho dù bạn theo đuổi vị trí quản lý hay tập trung vào phát triển nghề nghiệp , chúng tôi ghi nhận và đánh giá cao tài năng của bạn. Vì vậy , chúng tôi luôn tạo điều kiện cho bạn học tập phát triển, đồng thời thiết kế chương trình giúp bạn thành công trên mọi nẻo đường sự nghiệp.\n\nĐỘI NHÓM GẮN KẾT:  Chúng tôi thường xuyên tổ chức các buổi teambuilding, party để tăng sự gắn kết và tin tưởng nhau hơn.  Chúng tôi làm việc cùng nhau nhưng chúng tôi cũng chơi cùng nhau.\n\nLàm việc cho công ty mình làm chủ:  MINU ghi nhận sự nỗ lực và cố gắng của team, cá nhân và trao thưởng cổ phiếu cho những cá nhân suất sắc, cùng nhau chia sẻ thành công và lợi nhuận. \n\nTHAY ĐỔI THẾ GIỚI: Xây dựng mạng xã hội giải trí hẹn hò , đem lại những giây phút giải trí tuyệt vời cho hàng trăm  người dùng. \n\nKhông có thứ hạng  Minu: Các thành viên được khuyến khích đóng góp ý kiến ​​và tranh luận với những người khác.\n\nKHÔNG CÓ \"VĂN PHÒNG\":  Văn phòng giống như nhà của bạn. Bạn có thể treo tranh, trồng cây, thậm chí là nuôi cá cảnh trên bàn làm việc.\n\nTea break hàng ngày : Mọi người cùng nhau nghe nhạc, uống trà-cafe , nói chuyện cười đùa.  Đây là một cách khá thú vị để giúp mọi người thư giãn.\n\nKHÔNG RÀO CẢN: Văn phòng MINU là một không gian mở bởi chúng tôi luôn cố gắng xóa bỏ mọi rào cản để giúp các thành viên dễ dàng chia sẻ với nhau.\n\nĂn mặc thoải mái: Tại MINU, chúng tôi không có nhiều quy tắc vì chúng tôi tôn trọng bạn và muốn tạo không khí thoải mái giúp nhân viên thực hiện tốt công việc của mình.",
       "status": true,
-      "idCompany": "1",
+      "idCompany": 1,
       "createAt": "30-04-2023 14:10:23",
       "id": 7
     }
@@ -297,7 +329,8 @@
       "idJob": 7,
       "idCompany": 1,
       "createAt": "03-05-2023 08:59:36",
-      "id": 6
+      "id": 6,
+      "statusRead": true
     },
     {
       "name": "Le Van A",
@@ -308,7 +341,8 @@
       "idJob": 7,
       "idCompany": 1,
       "createAt": "03-05-2023 09:02:32",
-      "id": 7
+      "id": 7,
+      "statusRead": true
     },
     {
       "name": "Le Van A",
@@ -322,6 +356,31 @@
       "createAt": "04-05-2023 10:35:35",
       "id": 8,
       "statusRead": true
+    },
+    {
+      "name": "Đào Đức Danh",
+      "phone": "0392406660",
+      "email": "daocongdanh47@gmail.com",
+      "city": "Đà Nẵng",
+      "description": "toi la danh.........",
+      "linkProject": "https://ant.design/components/icon",
+      "idCompany": 1,
+      "idJob": 1,
+      "createAt": "23-09-2023 03:27:20",
+      "id": 9,
+      "statusRead": true
+    },
+    {
+      "name": "danh1",
+      "phone": "0935324245",
+      "email": "danh@gmail.com",
+      "city": "Hà Nội",
+      "description": "ddd",
+      "linkProject": "http://localhost:3002/company",
+      "idCompany": 1,
+      "idJob": 2,
+      "createAt": "23-09-2023 03:27:58",
+      "id": 10
     }
   ]
 }
